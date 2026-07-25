@@ -12,3 +12,9 @@ I am interested in mathematics, mechanics, computer science, and intelligent sci
 - [Solving Functional Equations via the Injection-Commutation Method](https://cheerly-pku.github.io/#publications), published in *Middle School Mathematics*, 2023(5).
 
 For further details, please visit my [homepage](https://cheerly-pku.github.io/).
+
+## Friends
+
+- [罗锐](https://github.com/Leasier)
+- [白晨旭](https://a1henu.github.io/)
+- [罗淦](https://luoxiaogan.github.io/GanLuo.github.io/)
